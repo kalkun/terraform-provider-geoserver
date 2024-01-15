@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 
-	"github.com/camptocamp/terraform-provider-geoserver/geoserver"
+        "github.com/kalkun/terraform-provider-geoserver/geoserver"
 )
 
 func main() {
